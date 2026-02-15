@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/Forecasting/blob/main/UnitedAirlines.jpg?raw=true"width="900"/>
+ <img src="https://github.com/paweenachodpaseart/Internship/blob/main/fLRIR9pYTftciZFeXaxj.jpg?raw=true"width="900"/>
 </div>
 
 # HR Internship Experience
