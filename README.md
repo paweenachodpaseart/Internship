@@ -29,4 +29,14 @@ Analyzed employee turnover data and developed an interactive dashboard to suppor
 - Collected and consolidated turnover data from multiple sources  
 - Selected relevant variables and performed data cleaning and transformation  
 - Built an interactive dashboard using Power BI  
-- Created visualizations to generate actionable insights  
+- Created visualizations to generate actionable insights
+
+---
+
+## Extracurricular Activities
+Proposed the application of AI to support the preparation of new employee appointment letters, explaining the system workflow and its organizational benefits to company executives.
+
+### 🎯 Objectives
+1. Streamline workflow processes
+2. Shorten processing time
+3. Minimize human error
