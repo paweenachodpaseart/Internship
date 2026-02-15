@@ -34,6 +34,12 @@ Analyzed employee turnover data and developed an interactive dashboard to suppor
 ---
 
 ## Extracurricular Activities
+
+<div id="header" align="center">
+ <img src="https://github.com/paweenachodpaseart/Internship/blob/main/B066D816-5709-4386-896D-0DD50F34B616.jpg?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/Internship/blob/main/AA4AAD7B-CDA2-4089-ACBE-BE933357F9B9.jpg?raw=true"width="300"/>
+</div>
+
 Proposed the application of AI to support the preparation of new employee appointment letters, explaining the system workflow and its organizational benefits to company executives.
 
 ### 🎯 Objectives
